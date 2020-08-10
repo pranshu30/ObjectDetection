@@ -1,6 +1,6 @@
 # Object Detection using OpenCV
 
-    Pranshu Varshney 10th Aug 2020
+Pranshu Varshney 10th Aug 2020
 
 ###### Object Detection code using YOLO. The repository contains:
 
