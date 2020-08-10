@@ -2,12 +2,12 @@
 
 Pranshu Varshney 10th Aug 2020
 
-###### Object Detection code using YOLO. The repository contains:
+### Object Detection code using YOLO. The repository contains:
 
 1. yolo.py and yolo_video.py - Python code to run YOLO model to produce object detection output in image and video respectovely.
 2. images: Contains images to be tested
 3. output: Contains the output for both image and videos
-4. videos: Contains videos to be tested `Folder is empty add your videos to test`
+4. videos: Contains videos to be tested. Folder is empty add your videos to test
 5. yolo-coco: Contains YOLO models weights and configuration used for prediction.Add yolo weights in this folder from [Yolo weights](https://pjreddie.com/media/files/yolov3.weights)
 
 ## Object Detection in Image
